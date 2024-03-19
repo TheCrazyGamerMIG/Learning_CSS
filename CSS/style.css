@@ -1,0 +1,63 @@
+#mybox
+{
+    width:200px;
+    height:300px;
+    background-color: aqua;
+    position:absolute;
+    top:100px;
+    left:200px;
+    z-index: -5;
+}
+
+.circle
+{
+    float: left;
+    width:200px;
+    height:300px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.circle2
+{
+    top:400px;
+    left:600px;
+    width:200px;
+    height:300px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.circle3
+{
+    float: right;
+    width:200px;
+    height:300px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.rectangular
+{
+    float: left;
+    width:800px;
+    height:80px;
+    border-radius: 35px 15px 45px 15px;
+}
+
+
+.allFonts
+{
+    color:blueviolet;
+    font-size: 40px;
+    font-family: fantasy;
+    overflow:scroll;
+}
+
+.body
+{
+    background-color: black;
+}
+
+.h1
+{
+    font-size: 100px;
+    color:azure;
+}
